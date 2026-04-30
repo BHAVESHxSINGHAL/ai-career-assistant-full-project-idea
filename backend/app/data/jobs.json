@@ -1,0 +1,106 @@
+[
+  {
+    "role": "Data Analyst",
+    "category": "Analytics",
+    "description": "Turns raw business data into dashboards, insights, and recommendations.",
+    "required_skills": ["sql", "excel", "python", "power bi", "tableau", "statistics", "data visualization"],
+    "nice_to_have": ["pandas", "numpy", "business analysis", "a/b testing"],
+    "roadmap": [
+      "Strengthen SQL joins, aggregations, window functions, and query optimization.",
+      "Build two portfolio dashboards using Power BI or Tableau.",
+      "Practice storytelling with metrics: problem, insight, recommendation, impact.",
+      "Apply to internships or junior analyst roles with project links on your resume."
+    ]
+  },
+  {
+    "role": "Business Analyst",
+    "category": "Product and Operations",
+    "description": "Connects business goals with data, process improvements, and stakeholder decisions.",
+    "required_skills": ["excel", "sql", "requirements gathering", "communication", "business analysis", "documentation"],
+    "nice_to_have": ["power bi", "jira", "stakeholder management", "process mapping"],
+    "roadmap": [
+      "Learn requirements gathering, user stories, and acceptance criteria.",
+      "Create one case study showing a business problem and proposed workflow improvement.",
+      "Practice SQL basics and dashboard interpretation.",
+      "Prepare STAR-format stories for stakeholder and ambiguity questions."
+    ]
+  },
+  {
+    "role": "Machine Learning Intern",
+    "category": "AI and ML",
+    "description": "Builds and evaluates predictive models for structured, text, or image data.",
+    "required_skills": ["python", "machine learning", "scikit-learn", "statistics", "pandas", "numpy", "model evaluation"],
+    "nice_to_have": ["deep learning", "pytorch", "tensorflow", "nlp", "feature engineering"],
+    "roadmap": [
+      "Finish a supervised learning project with clean evaluation metrics.",
+      "Learn train-test splits, cross validation, precision, recall, and model explainability.",
+      "Publish notebooks with clear README files and reproducible steps.",
+      "Practice explaining model tradeoffs in simple business language."
+    ]
+  },
+  {
+    "role": "AI Engineer",
+    "category": "AI and ML",
+    "description": "Builds production AI features using LLMs, retrieval, prompts, APIs, and evaluation loops.",
+    "required_skills": ["python", "fastapi", "llm", "prompt engineering", "rag", "api integration", "vector databases"],
+    "nice_to_have": ["langchain", "llamaindex", "docker", "mongodb", "evaluation"],
+    "roadmap": [
+      "Build an LLM app with retrieval, citations, and clear fallback behavior.",
+      "Learn prompt versioning, basic evaluation, latency, and cost tradeoffs.",
+      "Package one FastAPI service with Docker and environment-based configuration.",
+      "Show a demo video and architecture diagram in the project README."
+    ]
+  },
+  {
+    "role": "Frontend Developer",
+    "category": "Engineering",
+    "description": "Creates responsive user interfaces and connects them to backend APIs.",
+    "required_skills": ["javascript", "react", "html", "css", "api integration", "responsive design", "git"],
+    "nice_to_have": ["typescript", "vite", "accessibility", "testing"],
+    "roadmap": [
+      "Build three polished React screens using reusable components.",
+      "Practice API loading, error, and empty states.",
+      "Learn accessibility basics for forms, buttons, focus, and color contrast.",
+      "Deploy one project and add screenshots to your portfolio."
+    ]
+  },
+  {
+    "role": "Backend Developer",
+    "category": "Engineering",
+    "description": "Designs APIs, database models, and server-side business logic.",
+    "required_skills": ["python", "fastapi", "sql", "mongodb", "rest api", "authentication", "testing"],
+    "nice_to_have": ["docker", "redis", "postgresql", "system design"],
+    "roadmap": [
+      "Build REST endpoints with validation, error handling, and tests.",
+      "Practice database modeling for users, resumes, and recommendations.",
+      "Add authentication and protected routes to one project.",
+      "Write API docs and include sample requests in your README."
+    ]
+  },
+  {
+    "role": "Product Analyst",
+    "category": "Product",
+    "description": "Uses product data to understand user behavior and guide product decisions.",
+    "required_skills": ["sql", "analytics", "statistics", "a/b testing", "data visualization", "communication"],
+    "nice_to_have": ["python", "mixpanel", "amplitude", "experiment design"],
+    "roadmap": [
+      "Study funnels, retention, cohorts, activation, and engagement metrics.",
+      "Build one product analysis case study from a public dataset.",
+      "Learn A/B testing basics and common experiment mistakes.",
+      "Practice presenting insights with recommendation-first storytelling."
+    ]
+  },
+  {
+    "role": "QA Automation Engineer",
+    "category": "Engineering",
+    "description": "Automates product quality checks across APIs and user interfaces.",
+    "required_skills": ["python", "javascript", "testing", "selenium", "api testing", "git", "bug reporting"],
+    "nice_to_have": ["playwright", "ci/cd", "pytest", "postman"],
+    "roadmap": [
+      "Write API tests for a simple FastAPI project.",
+      "Automate two key browser flows with Playwright or Selenium.",
+      "Learn clear bug reports with steps, expected result, and actual result.",
+      "Add tests to CI so they run on every commit."
+    ]
+  }
+]

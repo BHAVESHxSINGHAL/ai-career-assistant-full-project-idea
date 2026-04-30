@@ -1,0 +1,15 @@
+Priya Sharma
+Data Analyst Intern
+
+Education
+Bachelor of Technology in Computer Science
+
+Experience
+1.5 years of experience through internships and academic analytics projects.
+
+Skills
+Python, SQL, Excel, Pandas, NumPy, Statistics, Data Visualization, Power BI, Git
+
+Projects
+Built a sales dashboard in Power BI using SQL queries and Excel cleaning workflows.
+Created a Python analysis notebook with pandas and NumPy to identify customer churn patterns.
